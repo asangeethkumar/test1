@@ -3,7 +3,7 @@
 # To configure this workflow:
 
 
-name: Build and Deploy to IBM
+name: test flow
 
 on:
  workflow_dispatch:
