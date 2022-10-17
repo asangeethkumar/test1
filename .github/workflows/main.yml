@@ -8,11 +8,11 @@ name: test flow
 on:
  workflow_dispatch:
     inputs:
-      logLevel:
-        description: 'Log level'     
+      logLevel123:
+        description: 'write some logs'     
         required: true
         default: 'warning'
-      tags:
+      enter_tag:
         description: 'Test scenario tags'  
 
       
